@@ -1,4 +1,12 @@
-Demonstration on how to create a simple assistant for the AIIA is over here: https://hf.co/chat/assistant/66ba167f142bf2ac1ed58fbb
+![GitHub Repo stars](https://img.shields.io/github/stars/datainnovatielab/AIIA-assistant)
+[![Forks](https://img.shields.io/github/forks/datainnovatielab/AIIA-assistant.svg)](https://github.com/datainnovatielab/AIIA-assistant/network)
+[![Open Issues](https://img.shields.io/github/issues/datainnovatielab/AIIA-assistant.svg)](https://github.com/datainnovatielab/AIIA-assistant/issues)
+[![Project Status](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
+![GitHub repo size](https://img.shields.io/github/repo-size/datainnovatielab/AIIA-assistant)
+
+## AIIA Assistant
+
+An assistant for the AIIA is created and active over here: https://hf.co/chat/assistant/66ba167f142bf2ac1ed58fbb
 
 
 # AI Impact Assessment
