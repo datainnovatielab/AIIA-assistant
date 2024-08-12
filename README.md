@@ -1,3 +1,6 @@
+Demonstration on how to create a simple assistant for the AIIA is over here: https://hf.co/chat/assistant/66ba167f142bf2ac1ed58fbb
+
+
 # AI Impact Assessment
 
 ## Het hulpmiddel voor een betrouwbaar AI-project
